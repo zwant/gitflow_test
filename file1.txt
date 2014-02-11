@@ -1,3 +1,4 @@
 Test file added on develop.
-More Text in second commit.
+More Ooops had to fix bug on release branch Text in second commit.
+
 More text.
