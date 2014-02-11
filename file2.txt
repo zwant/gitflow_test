@@ -1,4 +1,5 @@
 Second test file added on develop.
 Adding a line in a feature-branch.
+Develop changes after release.
 More Text in second commit.
 More updated text.
